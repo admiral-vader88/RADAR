@@ -8,6 +8,11 @@ A separate function, calculateDistance(), is defined to compute the distance bas
 Overall, this code enables the servo motor to sweep across a range while collecting distance measurements, providing a simple yet effective setup for proximity sensing applications.
 
 
+![image](https://github.com/admiral-vader88/RADAR/assets/81103846/5f0e920a-3982-49cf-88eb-c4b2b995af66)
 
+![image](https://github.com/admiral-vader88/RADAR/assets/81103846/6fa812c9-8595-466c-8805-09d04471d3f3)
+
+
+![image](https://github.com/admiral-vader88/RADAR/assets/81103846/3589e93d-ec54-4676-93b9-56e930880f1a)
 
 
